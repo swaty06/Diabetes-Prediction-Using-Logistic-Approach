@@ -20,7 +20,7 @@ The app allows users to input medical details (such as glucose levels, BMI, etc.
 The prediction is made by loading the pickled Logistic Regression model and applying it to the input data.
 How to Run the Application:
 
-To run the Streamlit application, clone this repository and ensure all dependencies are installed (you can use requirements.txt).
+To run the Streamlit application, clone this repository and ensure all dependencies are installed 
 Use the command streamlit run main.py to start the application. This will open the app in your web browser, where you can interact with the model and get predictions.
 
 
